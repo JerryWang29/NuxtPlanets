@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div>
-      <h1 class="title">mission</h1>
+      <h1 class="title">Amission</h1>
 
       <PlanetsList />
     </div>
