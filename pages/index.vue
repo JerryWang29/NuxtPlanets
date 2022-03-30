@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div>
-      <h1 class="title">nuxt-mission</h1>
+      <h1 class="title">mission</h1>
 
       <PlanetsList />
     </div>
@@ -10,6 +10,6 @@
 
 <script>
 export default {
-  name: 'IndexPage',
-}
+  name: "IndexPage",
+};
 </script>
